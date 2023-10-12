@@ -10,4 +10,6 @@ To run the analysis and generate the bar graphs, run `analysis.py`. The figures 
   <img src="figs_out\Repl_corr_acc.png" width="800"/>
 </p>
 
+The `instructions` folder contains the instructional documents given to participants.
+
 This research was conducted at the University of Illinois at Urbana-Champaign and at the Beckman Institute for Advanced Science and Technology. 
